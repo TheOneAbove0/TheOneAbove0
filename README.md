@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1>Hi 👋, I'm Manish Thapaliya</h1>
 
-<!--
-**TheOneAbove0/TheOneAbove0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ambitious web developer, UI/UX designer, Photo & Video editor..
 
-Here are some ideas to get you started:
+- 🎓 Currently studying Bachelors of Science in Computer Science & Information Technology.
+- 💜 [Portfolio Website](https://www.manishthapaliya.com.np/).
+- 📫 Reach me via manishthapaliya8888@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌙 Recent Projects
+- ☔ [Weather](https://pradeepkarki112.github.io/JB-Weather/)
+- 🍔 [Restaurant](https://pradeepkarki112.github.io/JB-Restaurant/)
+- 🕵️ [JobSearch](https://pradeepkarki112.github.io/JobSearch/)
+- 📝 [JabloGablo](https://jablogablo.blogspot.com/)
+
+### ☀️ Working Projects
+- 🌐 [Graphic Site]
+- 🚜 [Farmy Farm]
+
+### ⚡ Languages & tools 
+![skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,bootstrap,react,redux,nextjs,tailwind,firebase,git&theme=dark)
+
+### ✨ Familiar with 
+![skills](https://skillicons.dev/icons?i=figma,wordpress,php,postgres,ps,pr,git,github&theme=dark&perline=4)
+
+### 📖 Currently learning
+![skills](https://skillicons.dev/icons?i=nodejs,django,mongodb&theme=dark)
