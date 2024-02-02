@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Manish Thapaliya</h1>
 
-Ambitious web developer, UI/UX designer, Photo & Video editor..
+Ambitious web developer..
 
 - 🎓 Currently studying Bachelors of Science in Computer Science & Information Technology.
 - 💜 [Portfolio Website](https://www.manishthapaliya.com.np/).
@@ -13,8 +13,8 @@ Ambitious web developer, UI/UX designer, Photo & Video editor..
 - 📝 [JabloGablo](https://jablogablo.blogspot.com/)
 
 ### ☀️ Working Projects
-- 🌐 [Graphic Site]
-- 🚜 [Farmy Farm]
+- 🌐 [Earthier]
+- 🚜 [Medhavhi]
 
 ### ⚡ Languages & tools 
 ![skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,bootstrap,react,redux,nextjs,tailwind,firebase,git&theme=dark)
