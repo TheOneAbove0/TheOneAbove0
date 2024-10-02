@@ -7,14 +7,14 @@ Ambitious web developer..
 - 📫 Reach me via manishthapaliya8888@gmail.com
 
 ### 🌙 Recent Projects
-- ☔ [Weather](https://pradeepkarki112.github.io/JB-Weather/)
-- 🍔 [Restaurant](https://pradeepkarki112.github.io/JB-Restaurant/)
-- 🕵️ [JobSearch](https://pradeepkarki112.github.io/JobSearch/)
-- 📝 [JabloGablo](https://jablogablo.blogspot.com/)
+- ☔ [ConnectShift](https://connectshifts.com/)
+- 🍔 [Medhavhi](https://medhavhi.com/)
+- 🕵️ [Nepal e-billing](https://nepalebilling.com/)
+- 📝 [Eathier](https://earthier.net/)
 
 ### ☀️ Working Projects
-- 🌐 [Earthier]
-- 🚜 [Medhavhi]
+- 🌐 [connect]
+- 🚜 [pos]
 
 ### ⚡ Languages & tools 
 ![skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,bootstrap,react,redux,nextjs,tailwind,firebase,git&theme=dark)
