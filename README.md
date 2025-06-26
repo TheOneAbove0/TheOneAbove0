@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Manish Thapaliya</h1>
 <p align="center">
-  Ambitious Web Developer & BSc CSIT Student  
+  Ambitious Web Developer & B.Sc. CSIT Graduate  
   <br>
   <a href="https://www.manishthapaliya.com.np/">🌐 Portfolio</a> •  
   <a href="mailto:manishthapaliya8888@gmail.com">✉️ manishthapaliya8888@gmail.com</a>
@@ -8,21 +8,16 @@
 
 ---
 
-## 🎓 About Me
-- Currently pursuing **B.Sc. in Computer Science & IT**  
-- Passionate about crafting **scalable**, **user-centric** web applications  
-- Strong foundation in both frontend and backend technologies  
+## 🎓 Education
+- **B.Sc. in Computer Science & IT** (Completed)
 
 ---
 
-## 🚀 Skills & Technologies
+## 🚀 Core Skills
 
-| **Frontend**                    | **Backend**             | **Databases**        | **Tools & Others**        |
-| ------------------------------- | ----------------------- | -------------------- | ------------------------- |
-| TypeScript · JavaScript · HTML5 · CSS3 · SASS · Bootstrap · React · Redux · Next.js · Tailwind CSS | Node.js · Django (✅ Proficient) | MongoDB (✅ Proficient) · PostgreSQL | Git · GitHub · Firebase · Figma · WordPress · PHP |
-
-**Currently leveling up:**  
-🔧 **Cloud & DevOps** (AWS · Docker · Kubernetes)
+| **Frontend**                    | **Backend**             | **Databases**        | **Tools & DevOps**              |
+| ------------------------------- | ----------------------- | -------------------- | ------------------------------- |
+| TypeScript · JavaScript · HTML5 · CSS3 · SASS · Bootstrap · React · Redux · Next.js · Tailwind CSS | Node.js · Django        | MongoDB · PostgreSQL    | Git · GitHub · Firebase · Figma · WordPress · PHP · AWS · Docker · Kubernetes |
 
 ---
 
@@ -44,6 +39,18 @@
 
 ---
 
+## 📊 GitHub Statistics
+<p align="center">
+  <a href="https://github.com/manishthapaliya">
+    <img alt="Manish's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=manishthapaliya&count_private=true&show_icons=true&theme=dark" />
+  </a>
+</p>
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manishthapaliya&theme=dark"/>
+</p>
+
+---
+
 ## 💬 Let’s Connect!
-I’m always open to new challenges, collaborations, or just a good chat about code.  
-Feel free to drop me a line at [manishthapaliya8888@gmail.com](mailto:manishthapaliya8888@gmail.com).  
+I’m open to new challenges, collaborations, and conversations about code.  
+Reach out at [manishthapaliya8888@gmail.com](mailto:manishthapaliya8888@gmail.com).  
