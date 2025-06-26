@@ -41,20 +41,25 @@
 
 ## 📊 GitHub Stats & Contributions
 
+<!-- 
+💡 To enable total-commit counts, create a GitHub Personal Access Token (no scopes needed) 
+and add it as a repo secret named `GH_TOKEN` under Settings → Secrets → Actions.
+-->
+
 <p align="center">
-  <!-- Total commits, PRs, issues, followers, etc. -->
+  <!-- overall stats (incl. private & all commits) -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=TheOneAbove0&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true"
     alt="GitHub Stats – TheOneAbove0" />
 
-  <!-- Top languages by usage -->
+  <!-- top languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOneAbove0&layout=compact&theme=dark&hide_border=true"
     alt="Top Languages – TheOneAbove0" />
 </p>
 
 <p align="center">
-  <!-- Current streak of consecutive contribution days -->
+  <!-- contribution streak -->
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=TheOneAbove0&theme=dark&hide_border=true"
     alt="GitHub Streak – TheOneAbove0" />
@@ -62,15 +67,19 @@
 
 ---
 
-### 🔖 Key Metrics
+### 🔑 Key Metrics
 
 <p align="center">
-  <!-- Update these numbers manually or via your CI script -->
-  ![Total Commits](https://img.shields.io/badge/Commits-1234-brightgreen?style=flat-square)
-  ![Pull Requests](https://img.shields.io/badge/PRs%20Merged-150-blue?style=flat-square)
-  ![PR Reviews](https://img.shields.io/badge/Reviews-75-orange?style=flat-square)
+  <img
+    src="https://img.shields.io/badge/Commits-1234-brightgreen?style=flat-square"
+    alt="Total Commits" />
+  <img
+    src="https://img.shields.io/badge/PRs%20Merged-150-blue?style=flat-square"
+    alt="Pull Requests Merged" />
+  <img
+    src="https://img.shields.io/badge/PR%20Reviews-75-orange?style=flat-square"
+    alt="PR Reviews" />
 </p>
-
 
 ---
 
