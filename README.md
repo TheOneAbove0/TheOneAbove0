@@ -1,26 +1,49 @@
-<h1>Hi 👋, I'm Manish Thapaliya</h1>
+<h1 align="center">👋 Hi, I’m Manish Thapaliya</h1>
+<p align="center">
+  Ambitious Web Developer & BSc CSIT Student  
+  <br>
+  <a href="https://www.manishthapaliya.com.np/">🌐 Portfolio</a> •  
+  <a href="mailto:manishthapaliya8888@gmail.com">✉️ manishthapaliya8888@gmail.com</a>
+</p>
 
-Ambitious web developer..
+---
 
-- 🎓 Currently studying Bachelors of Science in Computer Science & Information Technology.
-- 💜 [Portfolio Website](https://www.manishthapaliya.com.np/).
-- 📫 Reach me via manishthapaliya8888@gmail.com
+## 🎓 About Me
+- Currently pursuing **B.Sc. in Computer Science & IT**  
+- Passionate about crafting **scalable**, **user-centric** web applications  
+- Strong foundation in both frontend and backend technologies  
 
-### 🌙 Recent Projects
-- ☔ [ConnectShift](https://connectshifts.com/)
-- 🍔 [Medhavhi](https://medhavhi.com/)
-- 🕵️ [Nepal e-billing](https://nepalebilling.com/)
-- 📝 [Eathier](https://earthier.net/)
+---
 
-### ☀️ Working Projects
-- 🌐 [connect]
-- 🚜 [pos]
+## 🚀 Skills & Technologies
 
-### ⚡ Languages & tools 
-![skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,bootstrap,react,redux,nextjs,tailwind,firebase,git&theme=dark)
+| **Frontend**                    | **Backend**             | **Databases**        | **Tools & Others**        |
+| ------------------------------- | ----------------------- | -------------------- | ------------------------- |
+| TypeScript · JavaScript · HTML5 · CSS3 · SASS · Bootstrap · React · Redux · Next.js · Tailwind CSS | Node.js · Django (✅ Proficient) | MongoDB (✅ Proficient) · PostgreSQL | Git · GitHub · Firebase · Figma · WordPress · PHP |
 
-### ✨ Familiar with 
-![skills](https://skillicons.dev/icons?i=figma,wordpress,php,postgres,ps,pr,git,github&theme=dark&perline=4)
+**Currently leveling up:**  
+🔧 **Cloud & DevOps** (AWS · Docker · Kubernetes)
 
-### 📖 Currently learning
-![skills](https://skillicons.dev/icons?i=nodejs,django,mongodb&theme=dark)
+---
+
+## 🌙 Recent Highlights
+- ☔ **ConnectShift** — Employee shift-management platform  
+  [connectshifts.com](https://connectshifts.com/)  
+- 🍔 **Medhavhi** — School & learning management system  
+  [medhavhi.com](https://medhavhi.com/)  
+- 🕵️ **Nepal e-Billing** — IRD-verified billing & accounting  
+  [nepalebilling.com](https://nepalebilling.com/)  
+- 🛒 **Earthier** — White-labeled e-commerce web & mobile apps  
+  [earthier.net](https://earthier.net/)
+
+---
+
+## ☀️ Currently Building
+- 🌐 **Connect** — Next-generation collaboration tool  
+- 🚜 **POS System** — Modern point-of-sale solution  
+
+---
+
+## 💬 Let’s Connect!
+I’m always open to new challenges, collaborations, or just a good chat about code.  
+Feel free to drop me a line at [manishthapaliya8888@gmail.com](mailto:manishthapaliya8888@gmail.com).  
