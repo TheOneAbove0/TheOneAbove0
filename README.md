@@ -129,33 +129,6 @@ I have hands-on experience working with the infrastructure required to take an a
 * 🧰 Server troubleshooting
 * 📈 Application monitoring & maintenance
 
-### From Code to Production
-
-```text
-Idea
-  ↓
-UI / Frontend
-  ↓
-Backend API
-  ↓
-Database
-  ↓
-Git / GitHub
-  ↓
-Docker
-  ↓
-AWS / DigitalOcean
-  ↓
-Nginx
-  ↓
-Domain + DNS
-  ↓
-SSL / HTTPS
-  ↓
-Production 🚀
-```
-
----
 
 # 🚀 Projects & Products
 
@@ -224,59 +197,6 @@ Next-generation collaboration and productivity platform.
 ### 🛒 Modern POS System
 
 A scalable Point-of-Sale and business management solution designed for modern businesses.
-
----
-
-# 💡 Technical Expertise
-
-```text
-Frontend
-├── React
-├── Next.js
-├── JavaScript
-├── TypeScript
-├── Redux
-├── Tailwind CSS
-└── Bootstrap
-
-Backend
-├── Python
-├── Django
-├── Node.js
-├── REST APIs
-└── PHP
-
-Database
-├── PostgreSQL
-└── MongoDB
-
-DevOps
-├── Docker
-├── Kubernetes
-├── Nginx
-├── Linux
-├── GitHub Actions
-└── CI/CD
-
-Cloud
-├── AWS
-└── DigitalOcean
-
-Infrastructure
-├── Linux Servers
-├── Domain Management
-├── DNS
-├── SSL / HTTPS
-├── Reverse Proxy
-└── Production Hosting
-
-Tools
-├── Git
-├── GitHub
-├── Firebase
-├── Figma
-└── WordPress
-```
 
 ---
 
