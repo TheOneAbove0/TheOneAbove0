@@ -5,39 +5,48 @@ Full-Stack Developer • DevOps Engineer • Cloud & Deployment Specialist
 </h3>
 
 <p align="center">
-I build, deploy, and maintain modern, scalable web applications — from frontend interfaces and backend APIs to cloud infrastructure, containers, domains, SSL, and production hosting.
+Full-Stack Developer with nearly <b>5 years of hands-on coding experience</b>, building, deploying, and maintaining modern web applications and production infrastructure.
 </p>
 
 <p align="center">
   <a href="https://www.manishthapaliya.com.np/">🌐 Portfolio</a> •
-  <a href="mailto:manishthapaliya8888@gmail.com">✉️ Email</a>
+  <a href="mailto:manishthapaliya8888@gmail.com">✉️ Email</a> •
+  <a href="https://github.com/TheOneAbove0">💻 GitHub</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer and B.Sc. CSIT graduate** with experience developing complete web applications and deploying them to production environments.
+I'm a **Full-Stack Developer & DevOps Engineer** with nearly **half a decade of coding experience**, working across frontend development, backend engineering, databases, cloud infrastructure, DevOps, deployment, and production support.
 
-My work covers the complete development lifecycle:
+I have completed my **Bachelor's degree in Computer Science & Information Technology (B.Sc. CSIT)** and I am currently **pursuing my Master's degree in Information Technology**.
 
-* 🎨 Building responsive frontend applications
-* ⚙️ Developing backend APIs and business logic
-* 🗄️ Designing and managing databases
+My experience goes beyond writing application code. I work across the complete software development and deployment lifecycle:
+
+* 🎨 Building modern and responsive web applications
+* ⚛️ Developing applications with React and Next.js
+* ⚙️ Building backend systems and REST APIs
+* 🐍 Developing applications with Python and Django
+* 🗄️ Designing and managing relational and NoSQL databases
 * ☁️ Deploying applications on AWS and DigitalOcean
 * 🐳 Containerizing applications using Docker
-* ☸️ Working with Kubernetes-based deployments
-* 🌐 Configuring domains, DNS, SSL, Nginx, and production servers
-* 🔧 Maintaining and troubleshooting live applications
-* 🚀 Managing complete application deployment and hosting environments
+* ☸️ Working with Kubernetes environments
+* 🐧 Managing Linux production servers
+* 🌐 Configuring domains, DNS, SSL and HTTPS
+* 🔀 Configuring Nginx and reverse proxies
+* 🚀 Deploying frontend and backend applications to production
+* 🔄 Managing Git-based and CI/CD deployment workflows
+* 🛠️ Troubleshooting and maintaining live production systems
+* 📈 Building scalable SaaS and business applications
 
-I enjoy working on real-world products where development, infrastructure, scalability, and business requirements come together.
+I enjoy working on products where **software development, infrastructure, business requirements, and real-world problem solving** come together.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Frontend
+## 💻 Frontend Development
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -48,9 +57,16 @@ I enjoy working on real-world products where development, infrastructure, scalab
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
-### ⚙️ Backend
+**Technologies**
+
+`React` `Next.js` `JavaScript` `TypeScript` `Redux` `HTML5` `CSS3` `SASS` `Tailwind CSS` `Bootstrap`
+
+---
+
+## ⚙️ Backend Development
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -59,14 +75,26 @@ I enjoy working on real-world products where development, infrastructure, scalab
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-### 🗄️ Database
+**Technologies**
+
+`Python` `Django` `Node.js` `REST APIs` `PHP`
+
+---
+
+## 🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### ☁️ DevOps & Cloud
+**Database Experience**
+
+`PostgreSQL` `MongoDB` `Database Design` `Data Modeling`
+
+---
+
+# ☁️ DevOps & Cloud
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
@@ -78,177 +106,272 @@ I enjoy working on real-world products where development, infrastructure, scalab
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-### 🔧 Tools & Platforms
+I have hands-on experience working with the infrastructure required to take an application from development to a production environment.
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
+### DevOps & Infrastructure Experience
 
----
+* ☁️ AWS cloud deployment
+* 🌊 DigitalOcean Droplets
+* 🐧 Linux server administration
+* 🐳 Docker containerization
+* ☸️ Kubernetes
+* 🌐 Nginx configuration
+* 🔀 Reverse proxy configuration
+* 🔐 SSL / HTTPS configuration
+* 🌍 Domain & DNS configuration
+* 🗄️ PostgreSQL server deployment
+* 🔧 Environment configuration
+* 🚀 Production deployment
+* 🔄 CI/CD workflows
+* 📦 Git-based deployment
+* 🖥️ Application hosting
+* 🛡️ Production server management
+* 🧰 Server troubleshooting
+* 📈 Application monitoring & maintenance
 
-## ☁️ DevOps & Deployment
-
-I also work on the infrastructure and deployment side of applications.
-
-My experience includes:
-
-* AWS cloud deployment
-* DigitalOcean Droplets
-* Linux server administration
-* Docker containerization
-* Kubernetes deployments
-* Nginx configuration
-* Reverse proxy configuration
-* Domain and DNS management
-* SSL/HTTPS configuration
-* Application hosting
-* PostgreSQL database deployment
-* Environment configuration
-* Production deployment
-* Server maintenance
-* Application monitoring and troubleshooting
-* Git-based deployment workflows
-* CI/CD workflows
-* Frontend and backend production hosting
-
-I can take an application from:
-
-**Development → Server Setup → Deployment → Domain → SSL → Production**
-
----
-
-## 🚀 Projects & Products
-
-### 🧾 Nepal e-Billing
-
-**Billing, Accounting & Business Management Platform**
-
-An IRD-verified billing and accounting platform designed for businesses in Nepal.
-
-🌐 [nepalebilling.com](https://nepalebilling.com/)
-
-**Areas involved:**
-`Full Stack` `Business Logic` `Deployment` `Cloud Infrastructure` `Production Support`
-
----
-
-### 👥 ConnectShift
-
-**Employee Shift Management Platform**
-
-A workforce and employee scheduling platform designed to simplify shift management.
-
-🌐 [connectshifts.com](https://connectshifts.com/)
-
-**Technologies & Areas:**
-`Web Development` `Backend` `Frontend` `Deployment`
-
----
-
-### 🎓 Medhavhi
-
-**School & Learning Management System**
-
-A digital platform focused on educational and school management.
-
-🌐 [medhavhi.com](https://medhavhi.com/)
-
-**Areas:**
-`Full Stack Development` `System Development` `Deployment`
-
----
-
-### 🛒 Earthier
-
-**White-Label E-Commerce Platform**
-
-A customizable e-commerce solution supporting web and mobile applications.
-
-🌐 [earthier.net](https://earthier.net/)
-
-**Areas:**
-`E-Commerce` `Web Development` `Mobile Integration` `Cloud Deployment`
-
----
-
-## 🔨 Currently Building
-
-### 🌐 Connect
-
-A next-generation collaboration platform focused on modern communication and productivity.
-
-### 🛒 Modern POS System
-
-A scalable Point-of-Sale solution for retail and business operations.
-
----
-
-## 💡 What I Work With
+### From Code to Production
 
 ```text
-Frontend        → React, Next.js, JavaScript, TypeScript
-Backend         → Python, Django, Node.js
-Database        → PostgreSQL, MongoDB
-Cloud           → AWS, DigitalOcean
-DevOps          → Docker, Kubernetes, Nginx, Linux
-Deployment      → Domain, DNS, SSL, Reverse Proxy, Hosting
-Version Control → Git, GitHub
-UI / Design     → Tailwind CSS, Bootstrap, Figma
+Idea
+  ↓
+UI / Frontend
+  ↓
+Backend API
+  ↓
+Database
+  ↓
+Git / GitHub
+  ↓
+Docker
+  ↓
+AWS / DigitalOcean
+  ↓
+Nginx
+  ↓
+Domain + DNS
+  ↓
+SSL / HTTPS
+  ↓
+Production 🚀
 ```
 
 ---
 
-## 🎓 Education
+# 🚀 Projects & Products
 
-**Bachelor of Science in Computer Science & Information Technology (B.Sc. CSIT)**
-Completed
+## 🧾 Nepal e-Billing
 
----
+### Billing, Accounting & Business Management Platform
 
-## 📊 GitHub Statistics
+An IRD-verified billing and accounting platform designed to help businesses manage invoicing, accounting, inventory, reporting, and day-to-day business operations.
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=TheOneAbove0&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true"
-    alt="Manish Thapaliya GitHub Stats"
-  />
+🌐 [nepalebilling.com](https://nepalebilling.com/)
 
-<img
- height="165"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOneAbove0&layout=compact&theme=github_dark&hide_border=true"
- alt="Manish Thapaliya Top Languages"
-/>
+**Areas of Experience**
 
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=TheOneAbove0&theme=github-dark-blue&hide_border=true"
-    alt="Manish Thapaliya GitHub Streak"
-  />
-</p>
+`Full-Stack Development` `Business Logic` `SaaS` `Cloud Deployment` `DevOps` `Production Support`
 
 ---
 
-## 🤝 Let's Connect
+## 👥 ConnectShift
 
-I'm interested in opportunities and collaborations involving:
+### Employee Shift Management Platform
 
-**Full-Stack Development • React • Next.js • Django • Python • Cloud Infrastructure • AWS • DigitalOcean • DevOps • Docker • Kubernetes • SaaS Products**
+A workforce management platform designed to simplify employee scheduling and shift management.
+
+🌐 [connectshifts.com](https://connectshifts.com/)
+
+**Areas**
+
+`Frontend` `Backend` `Full Stack` `Deployment`
+
+---
+
+## 🎓 Medhavhi
+
+### School & Learning Management System
+
+A digital education platform focused on school management, learning, and academic operations.
+
+🌐 [medhavhi.com](https://medhavhi.com/)
+
+**Areas**
+
+`Full-Stack Development` `System Development` `Deployment`
+
+---
+
+## 🛒 Earthier
+
+### White-Label E-Commerce Platform
+
+A customizable e-commerce ecosystem supporting web and mobile applications.
+
+🌐 [earthier.net](https://earthier.net/)
+
+**Areas**
+
+`E-Commerce` `Web Development` `Mobile Integration` `Cloud Deployment`
+
+---
+
+# 🔨 Currently Building
+
+### 🌐 Connect
+
+Next-generation collaboration and productivity platform.
+
+### 🛒 Modern POS System
+
+A scalable Point-of-Sale and business management solution designed for modern businesses.
+
+---
+
+# 💡 Technical Expertise
+
+```text
+Frontend
+├── React
+├── Next.js
+├── JavaScript
+├── TypeScript
+├── Redux
+├── Tailwind CSS
+└── Bootstrap
+
+Backend
+├── Python
+├── Django
+├── Node.js
+├── REST APIs
+└── PHP
+
+Database
+├── PostgreSQL
+└── MongoDB
+
+DevOps
+├── Docker
+├── Kubernetes
+├── Nginx
+├── Linux
+├── GitHub Actions
+└── CI/CD
+
+Cloud
+├── AWS
+└── DigitalOcean
+
+Infrastructure
+├── Linux Servers
+├── Domain Management
+├── DNS
+├── SSL / HTTPS
+├── Reverse Proxy
+└── Production Hosting
+
+Tools
+├── Git
+├── GitHub
+├── Firebase
+├── Figma
+└── WordPress
+```
+
+---
+
+# 🎓 Education
+
+### 🎓 Master's Degree in Information Technology
+
+**Currently Pursuing**
+
+### 🎓 Bachelor of Science in Computer Science & Information Technology
+
+**B.Sc. CSIT — Completed**
+
+---
+
+# 💼 Professional Focus
+
+My professional interests include:
+
+**Full-Stack Development**
+
+**Software Engineering**
+
+**SaaS Development**
+
+**React & Next.js Development**
+
+**Python & Django Development**
+
+**Backend API Development**
+
+**DevOps Engineering**
+
+**AWS Cloud Infrastructure**
+
+**DigitalOcean Deployment**
+
+**Docker & Kubernetes**
+
+**Linux Server Administration**
+
+**Production Deployment & Hosting**
+
+---
+
+# 📈 Nearly 5 Years of Coding
+
+Over the past several years, I have worked across different areas of software development — from building interfaces and backend systems to deploying and managing applications in production.
+
+```text
+Code → Build → Test → Deploy → Monitor → Improve
+```
+
+My goal is not only to **write code**, but to understand and manage the complete system that runs it.
+
+---
+
+# 🐙 GitHub
+
+Instead of relying on third-party statistics services that may become unavailable, you can view my repositories, contributions, and development activity directly on GitHub.
+
+<p align="center">
+  <a href="https://github.com/TheOneAbove0">
+    <img src="https://img.shields.io/badge/View_My_GitHub-TheOneAbove0-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/TheOneAbove0?tab=repositories">Repositories</a>
+  •
+  <a href="https://github.com/TheOneAbove0?tab=overview">Contributions</a>
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in discussing:
+
+**Software Development • SaaS • Full-Stack Development • DevOps • Cloud Infrastructure • Startups • Scalable Systems**
 
 <p align="center">
   🌐 <a href="https://www.manishthapaliya.com.np/">Portfolio</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  ✉️ <a href="mailto:manishthapaliya8888@gmail.com">manishthapaliya8888@gmail.com</a>
+  💻 <a href="https://github.com/TheOneAbove0">GitHub</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  ✉️ <a href="mailto:manishthapaliya8888@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Building applications from code to cloud. 🚀</b>
+  <b>Full-Stack Development • DevOps • Cloud Infrastructure</b>
+</p>
+
+<p align="center">
+  <i>Building applications from idea to production — code to cloud. 🚀</i>
 </p>
