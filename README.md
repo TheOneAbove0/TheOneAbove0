@@ -212,43 +212,9 @@ A scalable Point-of-Sale and business management solution designed for modern bu
 
 ---
 
-# 💼 Professional Focus
-
-My professional interests include:
-
-**Full-Stack Development**
-
-**Software Engineering**
-
-**SaaS Development**
-
-**React & Next.js Development**
-
-**Python & Django Development**
-
-**Backend API Development**
-
-**DevOps Engineering**
-
-**AWS Cloud Infrastructure**
-
-**DigitalOcean Deployment**
-
-**Docker & Kubernetes**
-
-**Linux Server Administration**
-
-**Production Deployment & Hosting**
-
----
-
 # 📈 Nearly 5 Years of Coding
 
 Over the past several years, I have worked across different areas of software development — from building interfaces and backend systems to deploying and managing applications in production.
-
-```text
-Code → Build → Test → Deploy → Monitor → Improve
-```
 
 My goal is not only to **write code**, but to understand and manage the complete system that runs it.
 
