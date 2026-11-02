@@ -99,7 +99,7 @@ An IRD-verified billing and accounting platform designed to help businesses mana
 
 **Areas of Experience**
 
-`Full-Stack Development` `Business Logic` `SaaS` `Cloud Deployment` `DevOps` `Production Support`
+`Full-Stack Development` `Business Logic` `SaaS` `Cloud Deployment` `DevOps`
 
 ---
 
