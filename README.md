@@ -86,29 +86,6 @@ I have completed my **Bachelor's degree in Computer Science & Information Techno
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-I have hands-on experience working with the infrastructure required to take an application from development to a production environment.
-
-### DevOps & Infrastructure Experience
-
-* ☁️ AWS cloud deployment
-* 🌊 DigitalOcean Droplets
-* 🐧 Linux server administration
-* 🐳 Docker containerization
-* ☸️ Kubernetes
-* 🌐 Nginx configuration
-* 🔀 Reverse proxy configuration
-* 🔐 SSL / HTTPS configuration
-* 🌍 Domain & DNS configuration
-* 🗄️ PostgreSQL server deployment
-* 🔧 Environment configuration
-* 🚀 Production deployment
-* 🔄 CI/CD workflows
-* 📦 Git-based deployment
-* 🖥️ Application hosting
-* 🛡️ Production server management
-* 🧰 Server troubleshooting
-* 📈 Application monitoring & maintenance
-
 
 # 🚀 Projects & Products
 
@@ -190,15 +167,6 @@ A scalable Point-of-Sale and business management solution designed for modern bu
 
 **B.Sc. CSIT — Completed**
 
----
-
-# 📈 Nearly 5 Years of Coding
-
-Over the past several years, I have worked across different areas of software development — from building interfaces and backend systems to deploying and managing applications in production.
-
-My goal is not only to **write code**, but to understand and manage the complete system that runs it.
-
----
 
 # 🐙 GitHub
 
