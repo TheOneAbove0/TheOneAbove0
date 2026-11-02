@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Thapaliya</h1>
 
 <h3 align="center">
-Full-Stack Developer • DevOps Engineer • Cloud & Deployment Specialist
+Full-Stack Developer
 </h3>
 
 <p align="center">
@@ -21,26 +21,6 @@ Full-Stack Developer with nearly <b>5 years of hands-on coding experience</b>, b
 I'm a **Full-Stack Developer & DevOps Engineer** with nearly **half a decade of coding experience**, working across frontend development, backend engineering, databases, cloud infrastructure, DevOps, deployment, and production support.
 
 I have completed my **Bachelor's degree in Computer Science & Information Technology (B.Sc. CSIT)** and I am currently **pursuing my Master's degree in Information Technology**.
-
-My experience goes beyond writing application code. I work across the complete software development and deployment lifecycle:
-
-* 🎨 Building modern and responsive web applications
-* ⚛️ Developing applications with React and Next.js
-* ⚙️ Building backend systems and REST APIs
-* 🐍 Developing applications with Python and Django
-* 🗄️ Designing and managing relational and NoSQL databases
-* ☁️ Deploying applications on AWS and DigitalOcean
-* 🐳 Containerizing applications using Docker
-* ☸️ Working with Kubernetes environments
-* 🐧 Managing Linux production servers
-* 🌐 Configuring domains, DNS, SSL and HTTPS
-* 🔀 Configuring Nginx and reverse proxies
-* 🚀 Deploying frontend and backend applications to production
-* 🔄 Managing Git-based and CI/CD deployment workflows
-* 🛠️ Troubleshooting and maintaining live production systems
-* 📈 Building scalable SaaS and business applications
-
-I enjoy working on products where **software development, infrastructure, business requirements, and real-world problem solving** come together.
 
 ---
 
@@ -252,12 +232,3 @@ I'm always interested in discussing:
   ✉️ <a href="mailto:manishthapaliya8888@gmail.com">Email</a>
 </p>
 
----
-
-<p align="center">
-  <b>Full-Stack Development • DevOps • Cloud Infrastructure</b>
-</p>
-
-<p align="center">
-  <i>Building applications from idea to production — code to cloud. 🚀</i>
-</p>
